@@ -1,5 +1,5 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/BuddyChewChew/tubi-scraper/refs/heads/main/tubi_epg.xml"
-# Generated on 2025-08-22T01:13:10.926609
+# Generated on 2025-08-23T01:10:39.429711
 #EXTINF:-1 tvg-id="400000096" tvg-logo="https://canvas-lb.tubitv.com/opts/ca2EvME4kxBv3g==/f96dfd36-d049-4c63-ae07-410f192f18b6/CHgQeDoFMS4xLjhAAQ==" group-title="True Crime",A&E Crime 360
 https://live-manifest.production-public.tubi.io/live/8cba5c00-34f4-45da-a73a-1e3d813a0cfb/playlist.m3u8
 #EXTINF:-1 tvg-id="618762" tvg-logo="https://canvas-lb.tubitv.com/opts/sE__djfzPMUmUg==/a3419933-ef7c-435f-a963-10be102b0dcd/CHgQeDoFMS4xLjhAAQ==" group-title="National News",ABC News Live
@@ -142,7 +142,7 @@ https://live-manifest.production-public.tubi.io/live/56f43f5a-4f97-44c8-a300-e3f
 https://live-manifest.production-public.tubi.io/live/a0b0c513-8a07-465d-93a5-a938dde17196/playlist.m3u8
 #EXTINF:-1 tvg-id="628893" tvg-logo="https://canvas-lb.tubitv.com/opts/ay2g5uBYZWXJrg==/ac3a8a9b-0068-488b-a5c6-380f373cc446/CHgQeDoFMS4xLjhAAQ==" group-title="Weather",FOX Weather
 https://live-manifest.production-public.tubi.io/live/f7927601-8f02-4549-b121-bfc65afa0991/playlist.m3u8
-#EXTINF:-1 tvg-id="557344" tvg-logo="https://canvas-lb.tubitv.com/opts/lykS7_5SCEwl9w==/765d496d-2d4a-4c13-9345-1b5ce81eef87/CHgQeDoFMS4xLjhAAQ==" group-title="Sports On Now",fubo Sports Network
+#EXTINF:-1 tvg-id="557344" tvg-logo="https://canvas-lb.tubitv.com/opts/A66v3lW5Ma-PNw==/134cd1d6-d194-49e9-a057-076ea9c0947d/CHgQeDoFMS4xLjg=" group-title="Sports On Now",fubo Sports Network
 https://live-manifest.production-public.tubi.io/live/7cb342e2-20b7-4209-90d8-36e6797b06ac/playlist.m3u8
 #EXTINF:-1 tvg-id="673411" tvg-logo="https://canvas-lb.tubitv.com/opts/RKa1amdHUHpnDw==/6f7f3b3f-a050-4254-82eb-2c705dab77a6/CHgQeDoFMS4xLjhAAQ==" group-title="Games & Competition",Game Show Central
 https://live-manifest.production-public.tubi.io/live/37d25c4d-ae6a-4182-a830-12e09479ad85/playlist.m3u8
@@ -206,7 +206,7 @@ https://live-manifest.production-public.tubi.io/live/1a4790e2-ebe2-47c9-94da-53c
 https://live-manifest.production-public.tubi.io/live/033e7a54-a70a-4324-a920-84f22e686ee5/playlist.m3u8
 #EXTINF:-1 tvg-id="692115" tvg-logo="https://canvas-lb.tubitv.com/opts/MWadRvxp4ESXcw==/aec8bdd9-9f3e-417b-9ab2-e5051f9fc446/CHgQeDoFMS4xLjhAAQ==" group-title="Comedy",LOL! Stand Up
 https://live-manifest.production-public.tubi.io/live/48108ea3-14f0-4a1c-b787-eff8ffd5398d/playlist.m3u8
-#EXTINF:-1 tvg-id="715944" tvg-logo="https://canvas-lb.tubitv.com/opts/8ESp0_kjC0rS0A==/566b6cbc-6c90-4e0c-8a8d-3f25a4b375c4/CHgQeDoFMS4xLjhAAQ==" group-title="Reality",Love & Desire
+#EXTINF:-1 tvg-id="715944" tvg-logo="https://canvas-lb.tubitv.com/q2tW2XVEGTu_bby-Ty31xC7QLag=/120x120/smart/img.adrise.tv/26d47405-bd10-4e9f-ac45-22bce741b52c.png" group-title="Reality",Love & Desire
 https://live-manifest.production-public.tubi.io/live/33468dcf-4dab-4d61-a9c4-0a592e83e069/playlist.m3u8
 #EXTINF:-1 tvg-id="715947" tvg-logo="https://canvas-lb.tubitv.com/opts/Fuxn83kmLxsFYw==/7b9a7209-d8b1-4c1e-9132-0407a473ed8f/CHgQeDoFMS4xLjhAAQ==" group-title="Reality",Love & Marriage
 https://live-manifest.production-public.tubi.io/live/75c5180c-4323-4c17-b300-308fdcaa98c5/playlist.m3u8
